@@ -51,19 +51,15 @@ NLP set of courses from [Coursera](https://www.coursera.org/specializations/natu
 ## Course 3. Sequence Models in NLP
 
 **1. Sentiment with Neural Nets**
-
 - Train a neural network with GLoVe word embeddings to perform sentiment analysis of tweets
 
 **2. Language Generation Models**
-
 - Generate synthetic Shakespeare text using a Gated Recurrent Unit (GRU) language model
 
 **3. Named Entity Recognition (NER)**
-
 - Train a recurrent neural network to perform NER using LSTMs with linear layers
 
 **4. Siamese Networks**
-
 - Use so-called ‘Siamese’ LSTM models to compare questions in a corpus and identify those that are worded differently but have the same meaning
 
 
@@ -84,3 +80,5 @@ NLP set of courses from [Coursera](https://www.coursera.org/specializations/natu
 **4. Chatbots with a Reformer Model**
 
 - Build a chatbot using a reformer model
+
+
